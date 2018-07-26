@@ -1,0 +1,35 @@
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s1
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s10
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s11
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s2
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s3
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s4
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s5
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s6
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s7
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s8
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s9
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\SudokuPrac1Question12.exe.config
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\SudokuPrac1Question12.exe
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\SudokuPrac1Question12.pdb
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\obj\Debug\SudokuPrac1Question12.csproj.CoreCompileInputs.cache
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\obj\Debug\SudokuPrac1Question12.exe
+C:\Users\madne\Desktop\cs3\compilers\prac 1\Final\Compilers Prac 1\Answers\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\obj\Debug\SudokuPrac1Question12.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s1
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s10
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s11
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s2
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s3
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s4
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s5
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s6
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s7
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s8
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\s9
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\SudokuPrac1Question12.exe.config
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\SudokuPrac1Question12.exe
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\bin\Debug\SudokuPrac1Question12.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\obj\Debug\SudokuPrac1Question12.csproj.CoreCompileInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\obj\Debug\SudokuPrac1Question12.exe
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\obj\Debug\SudokuPrac1Question12.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g13r0229\Desktop\COMPILERS\Prac1\12\Sudoku current\SudokuPrac1Question12\SudokuPrac1Question12\obj\Debug\SudokuPrac1Question12.csprojResolveAssemblyReference.cache
